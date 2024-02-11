@@ -1,0 +1,9 @@
+Cafe Menu
+Coffee Recipes:
+- Espresso
+- Latte
+- Cappuccino
+
+Snack Recipes:
+- Croissant
+- Sandwich
