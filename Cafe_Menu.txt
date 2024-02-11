@@ -7,3 +7,6 @@ Coffee Recipes:
 Snack Recipes:
 - Croissant
 - Sandwich
+-cheesecake
+-bagles
+-veg burger
